@@ -1,0 +1,103 @@
+/* margin bottom */
+.mgbt-20{
+    margin-bottom: 20px;
+}
+.mgbt-7{
+    margin-bottom: 7px;
+}
+.mgbt-10{
+    margin-bottom: 10px;
+}
+.mgbt-5{
+    margin-bottom: 4px;
+}
+.mgbt-15{
+    margin-bottom: 15px;
+}
+
+/* text transform */
+.tx-up{
+    text-transform: uppercase;
+}
+.tx-c{
+    text-transform: capitalize;
+}
+.list-none{
+    list-style: none;
+}
+
+/* position */
+.post-fixed{
+    position: fixed;
+}
+.post-abs{
+    position: absolute;
+}
+.post-rel{
+    position: relative;
+}
+
+/* text align */
+.txt-center{
+    text-align: center;
+}
+.txt-right{
+    text-align: right;
+}
+.txt-left{
+    text-align: left;
+}
+
+/* float */
+.float-lf{
+    float: left;
+}
+.clear{
+    clear: both;
+}
+
+/* color */
+.cl-999{
+    color: #999;
+}
+.cl-blue{
+    color:#6195ff;
+}
+.cl-white{
+    color: #fff;
+}
+.cl-e8{
+    color: #e8e8e8;
+}
+.cl-222{
+    color: #222;
+}
+.cl-333{
+    color:#333;
+}
+
+/* margin top */
+.mg-t{
+    margin-top: 7px;
+}
+
+/* display */
+.disp-in-bl{
+    display: inline-block;
+}
+.disp-b{
+    display: block;
+}
+
+/* text decoration */
+.txt-dec{
+    text-decoration: none;
+}
+
+/* font family */
+.font-comfortaa{
+    font-family: 'Comfortaa', cursive;
+}
+.font-montserrat{
+    font-family: Montserrat,sans-serif;
+}
